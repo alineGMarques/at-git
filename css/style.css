@@ -1,0 +1,17 @@
+body{
+    background-image: url(../pexels-ngakhamphithoun-somxai-2684062.jpg);
+   background-size: cover;
+}
+
+.botão{
+    background: rgb(143, 82, 2) ;
+    border-radius: 10px;
+    border-color:rgb(143, 82, 2) ;
+    position: relative;
+    left: 300px;
+    margin-bottom: 5;
+
+}
+.botão:hover{
+    background:rgb(70, 52, 52);
+}
